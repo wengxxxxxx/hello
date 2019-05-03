@@ -1,3 +1,3 @@
 # hello
 My first repository
-：coffee
+:coffee:
